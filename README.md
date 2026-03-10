@@ -1,6 +1,5 @@
 # Hotelistan---Hotel-Management-System-
-A hotel management system for small accommodation businesses. 
 
-bla bla bla
+ A hotel management system for small accommodation businesses. Hotelistan is a management system dedicated for an audience that is not computer literate. It aims to provide a simplistic user interface for the greater benefit of reception and housekeeping employees. The system is supposed to help these employees to keep in touch in all moments of their shift through checklists and assignments.
 
-test test
+Hotelistan also centralizes essential hotel operations such as room status tracking, guest check-in and check-out processes, and housekeeping schedules. By organizing daily tasks into clear and accessible lists, the system reduces confusion and improves coordination between departments. Reception staff can quickly update guest information and room availability, while housekeeping employees receive real-time updates about cleaning priorities and room readiness.
