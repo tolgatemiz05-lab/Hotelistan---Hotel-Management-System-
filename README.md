@@ -30,6 +30,6 @@ Management: Jira (Scrum methodology)
 
 Team Members: 
 
-Bora Sayar /Ece Kenar/Tolga Temiz/Zeynep Yýldýrým 
+Bora Sayar /Ece Kenar/Tolga Temiz/Zeynep Yildirim
 
  
