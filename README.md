@@ -1,9 +1,35 @@
-# Hotelistan---Hotel-Management-System-
-A hotel management system for small accommodation businesses. 
- Hotelistan is a management system dedicated for an audience that is not computer literate. It aims to provide a simplistic user interface for the greater benefit of reception and housekeeping employees. The system is supposed to help these employees to keep in touch in all moments of their shift through checklists and assignments. 
+Hotelistan: Hotel Management System  
 
- Hotelistan also centralizes essential hotel operations such as room status tracking, guest check-in and check-out processes, and housekeeping schedules. By organizing daily tasks into clear and accessible lists, the system reduces confusion and improves coordination between departments. Reception staff can quickly update guest information and room availability, while housekeeping employees receive real-time updates about cleaning priorities and room readiness.
+Hotelistan is a streamlined administrative program designed specifically for small hotel businesses. By offering a user-friendly interface that is simple to use even for non-technical people, we hope to reduce the communication gap between housekeeping and reception.  
 
- As a result, the platform minimizes communication errors and increases operational efficiency, allowing small accommodation businesses to manage their services more effectively without requiring advanced technical knowledge.
+An overview of the project  
 
- The project is design with practicality and accesibility in mind. It focus on using a website to simplify the hotel management process for the hotel employees. The platform send information to the staff if they need to priortize a certain responsibilities, like prioritizing cleaning a room that is booked for later that day before unbooked rooms. It helps hotel staff to maintain a stable and easy to track workflow. 
+Managing a small hotel shouldn't require advanced technology expertise. By consolidating routine tasks into a readily accessible digital workflow, Hotelistan lowers human error and expedite service.  
+
+Important Elements:  
+
+Real-time room tracking and instant access to room statuses (available, occupied, filthy, ready).  
+
+Dynamic Housekeeping: Depending on "Urgent Cleaning" requests and visitor check-outs, cleaning tasks are automatically prioritized.  
+
+Smooth Communication: In a shared digital environment, reception provides real-time updates to the cleaning staff's work lists.  
+
+Guest administration is made easier with user-friendly interfaces for transparent billing and check-in/check-out. 
+
+Tech Stack: 
+
+Language: C++  
+
+Architecture: Object-Oriented Analysis and Design (OOAD) 
+
+Design Patterns: Observer Pattern (for real-time status synchronization) 
+
+Modeling: UML (Class, Sequence, and Use Case Diagrams) 
+
+Management: Jira (Scrum methodology) 
+
+Team Members: 
+
+Bora Sayar /Ece Kenar/Tolga Temiz/Zeynep Yýldýrým 
+
+ 
